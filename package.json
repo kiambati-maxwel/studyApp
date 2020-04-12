@@ -1,0 +1,19 @@
+{
+  "name": "netbotstudy",
+  "version": "1.0.0",
+  "description": "house curve study app",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiambati-maxwel/studyApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiambati-maxwel/studyApp/issues"
+  },
+  "homepage": "https://github.com/kiambati-maxwel/studyApp#readme"
+}
