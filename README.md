@@ -1,2 +1,2 @@
 # studyApp
-time management programming and study application
+Time management and programming and study application. Implementing agile methodolies ..🚀🚀
